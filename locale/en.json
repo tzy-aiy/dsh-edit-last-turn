@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Edit a sent message",
+    "description": "Rewrites a user message you already sent — the latest by default, or an earlier one — then lets the model think again from the edited text.",
+    "detail": "docs/DETAIL.md"
+  }
+}
