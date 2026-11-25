@@ -16,7 +16,7 @@
 From the plugin market (once listed), or directly:
 
 ```sh
-dsh plugin add github:OWNER/dsh-edit-last-turn
+dsh plugin add github:tzy-aiy/dsh-edit-last-turn
 ```
 
 Published on npm as `dsh-edit-last-turn`, if you prefer the registry:
@@ -56,7 +56,7 @@ DeepSeek Harness 发出去的消息改不了。这个插件补上这一步：输
 安装：
 
 ```sh
-dsh plugin add github:OWNER/dsh-edit-last-turn
+dsh plugin add github:tzy-aiy/dsh-edit-last-turn
 ```
 
 装完重启 Host（或在插件页把这插件关掉再打开），并刷新一次页面。

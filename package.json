@@ -6,9 +6,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OWNER/dsh-edit-last-turn.git"
+    "url": "git+https://github.com/tzy-aiy/dsh-edit-last-turn.git"
   },
-  "homepage": "https://github.com/OWNER/dsh-edit-last-turn#readme",
+  "homepage": "https://github.com/tzy-aiy/dsh-edit-last-turn#readme",
   "keywords": [
     "deepseek",
     "harness",
